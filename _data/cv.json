@@ -1,152 +1,174 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Chen Xinyu",
+    "email": "chenxy835@mail2.sysu.edu.cn",
+    "phone": "+86 131 9238 1118",
+    "website": "",
+    "summary": "Bachelor of Engineering candidate at Sun Yat-sen University, majoring in Computer Science and Technology. Research interests include machine learning, privacy-preserving computation, and computer vision.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Guangzhou",
+      "countryCode": "CN",
+      "region": "Guangdong"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Guosen Securities Co., Ltd.",
+      "position": "Business Management Department Intern",
+      "startDate": "2023-07",
+      "endDate": "2023-08",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Sun Yat-sen University",
+      "area": "Computer Science and Technology",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2021-09",
+      "endDate": "Present",
+      "gpa": "3.8/5.0",
+      "courses": [
+        "Artificial Intelligence",
+        "Machine Learning and Data Mining",
+        "Artificial Neural Networks"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "level": "",
+      "keywords": [
+        "Image recognition",
+        "Clustering",
+        "Image generation"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "",
+      "keywords": [
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Mathematical & Statistical Tools",
+      "level": "",
+      "keywords": [
+        "MATLAB",
+        "Mathematica"
+      ]
+    },
+    {
+      "name": "Parallel Programming",
+      "level": "",
+      "keywords": [
+        "Pthread",
+        "OpenMP",
+        "MPI",
+        "CUDA"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "IELTS 7.0"
+    }
+  ],
   "interests": [],
   "references": [],
-  "publications": [
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "awards": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "title": "Third Prize, University-Level Scholarship",
+      "date": "2024",
+      "awarder": "Sun Yat-sen University"
     }
   ],
-  "presentations": [
+  "projects": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Graduation Project Selection System",
+      "startDate": "2023-07",
+      "endDate": "2023-08",
+      "description": "Developed a system to replace manual collection and matching process with automated platform",
+      "highlights": [
+        "Implemented frontend with Vue and Element UI",
+        "Built backend with Spring Boot and Redis",
+        "Created multi-interface system for administrators, faculty, and students",
+        "Applied Docker for deployment across environments"
+      ],
+      "keywords": [
+        "IntelliJ IDEA",
+        "Navicat",
+        "Redis",
+        "Docker"
+      ]
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Real Estate Portrait Analysis",
+      "startDate": "2024-04",
+      "endDate": "2024-05",
+      "description": "Developed comprehensive property profiling model by consolidating data from various systems",
+      "highlights": [
+        "Implemented Alibaba Cloud Suite (MaxCompute, DataWorks, QuickBI)",
+        "Created data visualization reports to guide business operations",
+        "Applied shallow data mining techniques for data accuracy"
+      ],
+      "keywords": [
+        "Alibaba Cloud",
+        "Data Integration",
+        "Business Intelligence"
+      ]
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Research on Fine-Grained Image Classification",
+      "startDate": "2024-05",
+      "endDate": "2024-07",
+      "description": "Conducted experiments comparing performance of different models on fine-grained image classification",
+      "highlights": [
+        "Fine-tuned ResNet models using transfer learning",
+        "Explored GANs for data augmentation",
+        "Trained and fine-tuned Vision Transformers (ViTs)",
+        "Evaluated Vision-Language Models (VLMs) for interpretability"
+      ],
+      "keywords": [
+        "ResNet",
+        "Transfer Learning",
+        "GANs",
+        "ViTs",
+        "VLMs",
+        "CAM"
+      ]
     }
   ],
-  "teaching": [
+  "extracurriculars": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "activity": "\"Yixian Cup\" Badminton Tournament",
+      "organization": "Sun Yat-sen University",
+      "date": "2024"
     }
   ]
 }
