@@ -25,8 +25,8 @@ author:
   avatar           : "face.png"
   name             : "Chen Xinyu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  # location         : "Earth"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : # "Earth"
   employer         : "Sun Yat-sen University"
   uri              : # URL
   email            : "cxy13192381118@163.com" 
