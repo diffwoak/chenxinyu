@@ -11,6 +11,6 @@ I'm a first year graduate student from the [School of Computer Science](https://
 
 I am very fortunate to be advised by [Prof. Zheng Peijia](https://cse.sysu.edu.cn/teacher/ZhengPeijia) of the School of Computer Science at Sun Yat-sen University.
 
-[Email](cxy13192381118@163.com) / [Github](https://github.com/diffwoak) / [CV](../assets/cv_yourname.pdf) 
+[Email](cxy13192381118@163.com) / [Github](https://github.com/diffwoak) / [CV](../assets/简历.pdf) 
 
 
